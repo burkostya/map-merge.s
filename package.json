@@ -1,0 +1,33 @@
+{
+  "author": "Konstantin Burykin <burkostya@gmail.com>",
+  "name": "map\-merge.s",
+  "description": "Merges packets of streams by function",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "publishConfig": {
+    "registry": "http://npm:5984/registry/_design/scratch/_rewrite"
+  },
+  "homepage": "http://gitlab/modules/map\-merge.s",
+  "repository": "git://gitlab:modules/map\-merge.s.git",
+  "bugs": "http://gitlab/modules/map\-merge.s/issues",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.10.21"
+  },
+  "files": [
+    "lib",
+    "index.js",
+    "README.md"
+  ],
+  "dependencies": {
+    "readable-stream": "~1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.17.0",
+    "chai": "^1.9.0"
+  },
+  "readmeFilename": "README.md"
+}
