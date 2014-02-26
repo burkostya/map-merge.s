@@ -30,7 +30,8 @@
   "devDependencies": {
     "mocha": "^1.17.0",
     "chai": "^1.9.0",
-    "stream-spectrum": "^0.1.5"
+    "stream-spectrum": "^0.1.5",
+    "inspect-stream": "^0.1.0"
   },
   "readmeFilename": "README.md"
 }
