@@ -1,6 +1,6 @@
 # map-merge.s
 
-Stream for slicing flow of packets
+Merges packets of two streams using map function
 
 ## Installation
 

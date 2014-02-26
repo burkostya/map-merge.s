@@ -1,7 +1,7 @@
 {
   "author": "Konstantin Burykin <burkostya@gmail.com>",
   "name": "map-merge.s",
-  "description": "Merges packets of streams with function",
+  "description": "Merges packets of streams using map function",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
